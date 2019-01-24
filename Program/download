@@ -1,0 +1,87 @@
+,Date,Activity,Amount,Amount_type,Amount_Status,Order_info
+0,30 DEC 1812:06 PM , Cashback Received , 10 , Credit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #22177368110
+0,30 DEC 1812:06 PM , Paid For Order , 21 , Debit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #22177367957
+0,30 DEC 1812:00 PM , Added To Paytm Account , 50 , Credit , SUCCESS ,Paytm Order #6926952498Paytm Cash Txn ID #22177256195
+0,29 DEC 1810:47 AM , Cashback Received , 10 , Credit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #22160509828
+0,29 DEC 1810:47 AM , Paid For Order , 21 , Debit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #22160509750
+0,29 DEC 1810:47 AM , Added To Paytm Account , 11 , Credit , SUCCESS ,Paytm Order #6917491656Paytm Cash Txn ID #22160509342
+0,28 DEC 1805:27 PM , Money Sent To ANIL KUMAR , 40 , Debit , SUCCESS ,Order #SM_A8DAD8529B017BC5Paytm Cash Txn ID #22150701118
+0,28 DEC 1804:46 PM , Paid For Order , 10 , Debit , SUCCESS ,CHANDRESH YADAV OrderPaytm Cash Txn ID #22150058830 
+0,28 DEC 1801:01 PM , Money Sent To ANIL KUMAR , 40 , Debit , SUCCESS ,Order #SM_8F88D3E5739AE173Paytm Cash Txn ID #22146340225
+0,28 DEC 1801:01 PM , Added To Paytm Account , 100 , Credit , SUCCESS ,Paytm Order #6909697073Paytm Cash Txn ID #22146333671
+0,21 DEC 1801:40 PM , Money Sent To BAJENTI BORO , 60 , Debit , SUCCESS ,Order #SM_BAFD648503132B9EPaytm Cash Txn ID #22033048999
+0,21 DEC 1801:40 PM , Added To Paytm Account , 60 , Credit , SUCCESS ,Paytm Order #6846890462Paytm Cash Txn ID #22033048252
+0,20 DEC 1802:46 PM , Money Sent To BAJENTI BORO , 70 , Debit , SUCCESS ,Order #SM_6A0B740B7B13C5D8Paytm Cash Txn ID #22017689381
+0,20 DEC 1802:46 PM , Added To Paytm Account , 60 , Credit , SUCCESS ,Paytm Order #6837988246Paytm Cash Txn ID #22017688798
+0,20 DEC 1810:13 AM , Cashback Received , 10 , Credit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #22012645919
+0,20 DEC 1810:13 AM , Paid For Order , 21 , Debit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #22012645810
+0,20 DEC 1810:13 AM , Added To Paytm Account , 21 , Credit , SUCCESS ,Paytm Order #6835250268Paytm Cash Txn ID #22012645340
+0,20 DEC 1810:13 AM , Paid For Order , 21 , Debit , FAILURE ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #22012640171 
+0,20 DEC 1810:05 AM , Money Sent To Balbir Kumar , 500 , Debit , SUCCESS ,Order #SM_27014993F2A070F2Paytm Cash Txn ID #22012531051
+0,20 DEC 1810:05 AM , Added To Paytm Account , 500 , Credit , SUCCESS ,Paytm Order #6835172698Paytm Cash Txn ID #22012530487
+0,19 DEC 1804:48 PM , Money Sent To ANIL KUMAR , 50 , Debit , SUCCESS ,Order #SM_819690C43D1CBC80Paytm Cash Txn ID #22001376550
+0,19 DEC 1804:48 PM , Added To Paytm Account , 50 , Credit , SUCCESS ,Paytm Order #6829372885Paytm Cash Txn ID #22001375945
+0,19 DEC 1803:29 PM , Money Sent To ASHISH KUMAR , 40 , Debit , SUCCESS ,Order #SM_B813A2AE3F5A0272Paytm Cash Txn ID #22000131328
+0,19 DEC 1803:29 PM , Added To Paytm Account , 30 , Credit , SUCCESS ,Paytm Order #6828651597Paytm Cash Txn ID #22000130578
+0,19 DEC 1810:11 AM , Cashback Received , 10 , Credit , SUCCESS ,Safal Shop No. 81905 OrderPaytm Cash Txn ID #21994203478
+0,19 DEC 1810:11 AM , Paid For Order , 49 , Debit , SUCCESS ,Safal Shop No. 81905 OrderPaytm Cash Txn ID #21994203354
+0,19 DEC 1810:11 AM , Added To Paytm Account , 49 , Credit , SUCCESS ,Paytm Order #6825502179Paytm Cash Txn ID #21994202337
+0,18 DEC 1803:38 PM , Paid For Order , 30 , Debit , SUCCESS ,CHANDRESH YADAV OrderPaytm Cash Txn ID #21982490733 
+0,18 DEC 1803:38 PM , Added To Paytm Account , 30 , Credit , SUCCESS ,Paytm Order #6818929167Paytm Cash Txn ID #21982490196
+0,18 DEC 1811:20 AM , Paid For Order , 398 , Debit , SUCCESS ,Idea Cellular Order #258892995Paytm Cash Txn ID #21977786385
+0,18 DEC 1811:24 AM , Added To Paytm Account , 398 , Credit , SUCCESS ,Paytm Order #258892995Paytm Cash Txn ID #21977786378
+0,16 DEC 1811:12 PM , Paid For Order , 1926 , Debit , SUCCESS ,gozocabs Order #181216000113808Paytm Cash Txn ID #21954993286
+0,16 DEC 1811:24 PM , Added To Paytm Account , 1508 , Credit , SUCCESS ,Paytm Order #181216000113808Paytm Cash Txn ID #21954993282
+0,16 DEC 1801:21 PM , Cashback Received , 10 , Credit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #21945035983
+0,16 DEC 1801:21 PM , Paid For Order , 21 , Debit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #21945035789
+0,15 DEC 1807:26 PM , Money Sent To guru kripa daily needs , 71 , Debit , SUCCESS ,Order #SM_FE7CDDCBB34DBC62Paytm Cash Txn ID #21933700079
+0,15 DEC 1807:25 PM , Added To Paytm Account , 500 , Credit , SUCCESS ,Paytm Order #6793113728Paytm Cash Txn ID #21933687747
+0,15 DEC 1810:42 AM , Money Sent To sanoj , 1100 , Debit , SUCCESS ,Order #SM_18B22644A6FAD37FPaytm Cash Txn ID #21923978655 
+0,15 DEC 1810:42 AM , Added To Paytm Account , 1088 , Credit , SUCCESS ,Paytm Order #6787865806Paytm Cash Txn ID #21923978329
+0,14 DEC 1807:46 PM , Paid For Order , 21 , Debit , FAILURE ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #21915527637
+0,14 DEC 1807:46 PM , Paid For Order , 21 , Debit , FAILURE ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #21915521084
+0,14 DEC 1803:15 PM , Paid For Order , 30 , Debit , SUCCESS ,CHANDRESH YADAV OrderPaytm Cash Txn ID #21910720504
+0,14 DEC 1803:15 PM , Added To Paytm Account , 12 , Credit , SUCCESS ,Paytm Order #6781272713Paytm Cash Txn ID #21910719917
+0,14 DEC 1803:15 PM , Added To Paytm Account , 12 , Credit , SUCCESS ,Paytm Order #6781266004Paytm Cash Txn ID #21910714752
+0,14 DEC 1803:10 PM , Money Sent To BAJENTI BORO , 130 , Debit , SUCCESS ,Order #SM_674C4360A0E207FBPaytm Cash Txn ID #21910639407
+0,14 DEC 1811:52 AM , Paid For Order To YUVRAJ SINGH RAJPUT , 10 , Debit , SUCCESS ,Order #SM_F0168D18DDF03771Paytm Cash Txn ID #21906913902
+0,13 DEC 1810:26 AM , Cashback Received , 5 , Credit , SUCCESS ,Paytm Order #21887345103_cashbackPaytm Cash Txn ID #21887345113
+0,13 DEC 1810:26 AM , Money Sent To guru kripa daily needs , 50 , Debit , SUCCESS ,Order #SM_E1C1E913ECBDABC9Paytm Cash Txn ID #21887345103 
+0,11 DEC 1809:56 PM , Cashback Received , 10 , Credit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #21864297591
+0,11 DEC 1809:56 PM , Paid For Order , 21 , Debit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #21864297420
+0,08 DEC 1810:14 AM , Money Sent To Choudhary , 75 , Debit , SUCCESS ,Order #SM_76525CCE6D031C68Paytm Cash Txn ID #21805202813
+0,08 DEC 1810:11 AM , Cashback Received , 10 , Credit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #21805173115
+0,08 DEC 1810:11 AM , Paid For Order , 21 , Debit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #21805173048
+0,08 DEC 1810:11 AM , Added To Paytm Account , 300 , Credit , SUCCESS ,Paytm Order #6723459339Paytm Cash Txn ID #21805169995
+0,08 DEC 1810:10 AM , Paid For Order , 21 , Debit , FAILURE ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #21805161911
+0,07 DEC 1801:20 PM , Paid For Order , 399 , Debit , SUCCESS ,Reliance Jio Order #BR0001ZA9JXXPaytm Cash Txn ID #21792096069
+0,07 DEC 1801:32 PM , Added To Paytm Account , 132 , Credit , SUCCESS ,Paytm Order #BR0001ZA9JXX253660Paytm Cash Txn ID #21792095560
+0,06 DEC 1809:49 AM , Cashback Received , 10 , Credit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #21772062580 
+0,06 DEC 1809:49 AM , Paid For Order , 21 , Debit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #21772062479
+0,05 DEC 1810:26 AM , Cashback Received , 10 , Credit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #21756306027
+0,05 DEC 1810:26 AM , Paid For Order , 21 , Debit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #21756305817
+0,05 DEC 1810:25 AM , Paid For Order , 11 , Debit , SUCCESS ,Safal Shop No. 81905 OrderPaytm Cash Txn ID #21756296304
+0,05 DEC 1810:25 AM , Added To Paytm Account , 300 , Credit , SUCCESS ,Paytm Order #6697170666Paytm Cash Txn ID #21756290020
+0,05 DEC 1810:04 AM , Money Sent To balbir , 1600 , Debit , SUCCESS ,Order #SM_299EAC09074E74B2Paytm Cash Txn ID #21756009791
+0,05 DEC 1810:04 AM , Added To Paytm Account , 1600 , Credit , SUCCESS ,Paytm Order #6696997106Paytm Cash Txn ID #21756009356
+0,05 DEC 1808:41 AM , Money Sent To Dhammapal Avhad , 200 , Debit , SUCCESS ,Order #SM_D665ED4BDB20BEBEPaytm Cash Txn ID #21755014232
+0,05 DEC 1808:40 AM , Added To Paytm Account , 54 , Credit , SUCCESS ,Paytm Order #6696408277Paytm Cash Txn ID #21755006855
+0,04 DEC 1812:46 PM , Paid For Order , 30 , Debit , SUCCESS ,AMAN RANA Order #201812041246210040Paytm Cash Txn ID #21742577414 
+0,04 DEC 1811:39 AM , Money Sent To NALLI HIMABINDU , 260 , Debit , SUCCESS ,Order #SM_B95140A8CC843891Paytm Cash Txn ID #21741329009
+0,04 DEC 1810:11 AM , Cashback Received , 10 , Credit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #21739927331
+0,04 DEC 1810:11 AM , Paid For Order , 21 , Debit , SUCCESS ,Mother Dairy Booth No. 905 OrderPaytm Cash Txn ID #21739927285
+0,03 DEC 1808:48 AM , Cashback Received , 10 , Credit , SUCCESS ,Mother Dairy Booth No. 41 OrderPaytm Cash Txn ID #21722214061
+0,03 DEC 1808:48 AM , Paid For Order , 21 , Debit , SUCCESS ,Mother Dairy Booth No. 41 OrderPaytm Cash Txn ID #21722213917
+0,02 DEC 1809:56 PM , Money Sent To ANAND SHARMA , 552 , Debit , SUCCESS ,Order #SM_FFB4255B580A6804Paytm Cash Txn ID #21719106142
+0,02 DEC 1809:28 PM , Added To Paytm Account , 1000 , Credit , SUCCESS ,Paytm Order #6677084365Paytm Cash Txn ID #21718679200
+0,02 DEC 1808:11 AM , Cashback Received , 10 , Credit , SUCCESS ,Mother Dairy Booth No. 41 OrderPaytm Cash Txn ID #21706371252
+0,02 DEC 1808:11 AM , Paid For Order , 21 , Debit , SUCCESS ,Mother Dairy Booth No. 41 OrderPaytm Cash Txn ID #21706371167
+0,02 DEC 1808:11 AM , Added To Paytm Account , 21 , Credit , SUCCESS ,Paytm Order #6670115220Paytm Cash Txn ID #21706367501 
+0,01 DEC 1805:39 PM , Money Sent To SHUBHAM BHARDWAJ , 1200 , Debit , SUCCESS ,Order #SM_05EDEC433252898FPaytm Cash Txn ID #21698693622
+0,01 DEC 1805:39 PM , Added To Paytm Account , 1200 , Credit , SUCCESS ,Paytm Order #6665885378Paytm Cash Txn ID #21698693021
+0,01 DEC 1805:34 PM , Paid For Order To Krishan rastogi , 1850 , Debit , SUCCESS ,Order #SM_E0E2239D79898D03Paytm Cash Txn ID #21698589874
+0,01 DEC 1805:33 PM , Added To Paytm Account , 1850 , Credit , SUCCESS ,Paytm Order #6665814537Paytm Cash Txn ID #21698587591
+0,01 DEC 1808:28 AM , Money Sent To LAL BABU BAITHA , 21 , Debit , SUCCESS ,Order #SM_9A8A33E2F55065D8Paytm Cash Txn ID #21690199149
+0,01 DEC 1808:28 AM , Added To Paytm Account , 21 , Credit , SUCCESS ,Paytm Order #6660715070Paytm Cash Txn ID #21690198860
+0,30 NOV 1809:49 PM , Paid For Order To Olive The Cafe , 25 , Debit , SUCCESS ,Order #SM_C677F1C0912A9969Paytm Cash Txn ID #21687011765
+0,30 NOV 1809:49 PM , Added To Paytm Account , 25 , Credit , SUCCESS ,Paytm Order #6659045548Paytm Cash Txn ID #216870110
